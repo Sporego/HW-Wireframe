@@ -19,11 +19,13 @@ nav {
 section {
     background: #ebebeb;
     width: 495px;
+    float: left;
 }
 
 aside {
     background: #ebebeb;
     width: 465px;
+    float: right;
 }
 
 footer {
