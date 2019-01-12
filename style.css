@@ -16,6 +16,7 @@ nav {
 
 section {
     background: #ebebeb;
+    width: 495px
 }
 
 aside {
@@ -24,4 +25,19 @@ aside {
 
 footer {
     background: #ebebeb;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+}
+
+h1 {
+    color: #777;
+    background: #ebebeb;
+}
+
+p {
+    color: #777;
+    background: #ebebeb:
 }
