@@ -8,15 +8,17 @@ body {
 
 header {
     background: #ebebeb;
+    text-align: center;
 }
 
 nav {
     background: #ebebeb;
+    text-align: center;
 }
 
 section {
     background: #ebebeb;
-    width: 495px
+    width: 495px;
 }
 
 aside {
@@ -25,6 +27,7 @@ aside {
 
 footer {
     background: #ebebeb;
+    text-align: center;
 }
 
 article {
